@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ステラ",
+  "base_track": "ステラ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
   "base_artist": "Leo/need",
-  "createdAt": "2026-01-09T12:47:10.551377Z",
+  "createdAt": "2026-02-27T12:00:20.880519Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -63,34 +63,34 @@
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "ステラ・ドライブ",
-      "artist": "七瀬佳乃(CV:青山吉能)",
+      "title": "ステラ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo",
       "has_synced": true,
-      "path": "select/08_ステラ・ドライブ_七瀬佳乃(CV_青山吉能).lrc"
+      "path": "select/08_ステラ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "ステラ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
-      "artist": "Leo",
+      "title": "ステラ - Stella (feat. 星乃一歌",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/09_ステラ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
+      "path": "select/09_ステラ_-_Stella_(feat._星乃一歌_Leo_need.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "ステラ - Stella (feat. 星乃一歌",
-      "artist": "Leo/need",
+      "title": "ステラ",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凛, 上田麗奈, 中島由貴) & 初音ミク",
       "has_synced": true,
-      "path": "select/10_ステラ_-_Stella_(feat._星乃一歌_Leo_need.lrc"
+      "path": "select/10_ステラ_Leo_need_(野口瑠璃子,_礒部花凛,_上田麗奈,_中島由貴)_&_初音ミク.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
       "title": "ステラ",
-      "artist": "Leo/need (野口瑠璃子, 礒部花凛, 上田麗奈, 中島由貴) & 初音ミク",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/11_ステラ_Leo_need_(野口瑠璃子,_礒部花凛,_上田麗奈,_中島由貴)_&_初音ミク.lrc"
+      "path": "select/11_ステラ_Leo_need.lrc"
     },
     {
       "id": "lrclib_12",
@@ -103,18 +103,18 @@
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "ステラ (instrumental)",
-      "artist": "Leo/need (野口瑠璃子, 礒部花凛, 上田麗奈, 中島由貴) & 初音ミク",
+      "title": "ステラ・ドライブ",
+      "artist": "七瀬佳乃(CV:青山吉能)",
       "has_synced": true,
-      "path": "select/13_ステラ_(instrumental)_Leo_need_(野口瑠璃子,_礒部花凛,_上田麗奈,_中島由貴)_&_初音ミク.lrc"
+      "path": "select/13_ステラ・ドライブ_七瀬佳乃(CV_青山吉能).lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "ステラ",
-      "artist": "Leo/need",
+      "title": "ステラ (instrumental)",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凛, 上田麗奈, 中島由貴) & 初音ミク",
       "has_synced": true,
-      "path": "select/14_ステラ_Leo_need.lrc"
+      "path": "select/14_ステラ_(instrumental)_Leo_need_(野口瑠璃子,_礒部花凛,_上田麗奈,_中島由貴)_&_初音ミク.lrc"
     },
     {
       "id": "lrclib_15",
